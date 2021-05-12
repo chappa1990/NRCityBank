@@ -9,6 +9,6 @@ public static void main(String[] args) {
 }
 public void m1()
 {
-	System.out.println("Utility method m1()");
+	System.out.println("Utility method m1():12345");
 }
 }
